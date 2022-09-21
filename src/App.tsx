@@ -28,7 +28,7 @@ const App = () => {
 
       <div className='search'>
         <input 
-        placeholder='Search for movies'
+        placeholder='Press Enter to Search'
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         onKeyPress={(e) => e.key === 'Enter' ? searchMovies(searchTerm) : null}
