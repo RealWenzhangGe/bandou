@@ -6,6 +6,16 @@ If you successfully npm start locally it will look like this:
 
 ![Image text](https://github.com/RealWenzhangGe/bandou/blob/main/src/images/First%20Page.png)
 
+Then you can start searching for the movie you want
+
+![Image text](https://raw.githubusercontent.com/RealWenzhangGe/bandou/main/src/images/Search%20for%20Movies.png)
+
+Click the mouse to jump to its corresponding iMDb page!
+
+![Image text](https://raw.githubusercontent.com/RealWenzhangGe/bandou/main/src/images/iMDb%20Page.png)
+
+Enjoy! :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
