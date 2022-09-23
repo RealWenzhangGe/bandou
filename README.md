@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Bandou Movie
+
+This SPA is designed to call omdbapi to search and get IMDB movies, allowing users to jump through and view them.
+
+If you successfully npm start locally it will look like this:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
