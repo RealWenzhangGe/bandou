@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className='app'>
-      <h1>Bandou</h1>
+      <h1>Bandou Movie</h1>
       <h3>Any Movie You Want</h3>
 
       <div className='search'>
