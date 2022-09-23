@@ -4,6 +4,8 @@ This SPA is designed to call omdbapi to search and get IMDB movies, allowing use
 
 If you successfully npm start locally it will look like this:
 
+![Image text](https://github.com/RealWenzhangGe/bandou/blob/main/src/images/First%20Page.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
